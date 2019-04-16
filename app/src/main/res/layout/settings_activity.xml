@@ -1,0 +1,8 @@
+<fragment android:name="com.example.android.quakereport.SettingsActivity$EarthquakePreferenceFragment"
+    android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    tools:context=".SettingsActivity"
+    xmlns:tools="http://schemas.android.com/tools">
+
+</fragment>
